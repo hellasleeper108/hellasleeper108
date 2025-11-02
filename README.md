@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Jaramie
 
-<!--
-**hellasleeper108/hellasleeper108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Software Engineering student on a mission to crash course through all aspects of software development while earning my degree. Currently focused on mastering Python before expanding into other languages.
 
-Here are some ideas to get you started:
+### What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Student**: Pursuing a degree in AI Software Engineering
+- **Cyber-Security Enthusiast**: Passionate about security and protecting digital assets
+- **Business Owner**: Operating a local tech repair business, solving real-world technology problems
+
+### Current Focus
+
+- Mastering Python fundamentals and advanced concepts
+- Building a strong foundation before diving into additional programming languages
+- Combining academic learning with hands-on development experience
+
+### Connect With Me
+
+- **Portfolio**: [jaramie.com](https://jaramie.com)
+- **LinkedIn**: [linkedin.com/in/jaramie-morris](https://www.linkedin.com/in/jaramie-morris)
