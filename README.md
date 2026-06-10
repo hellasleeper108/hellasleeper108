@@ -37,6 +37,14 @@ operating_rule = make it work → make it understandable → make it hard to ign
 - 🕹️ **Learning experiences** — gamified Python, terminal learning tools, and weird interfaces that make practice stick.
 - 🧰 **Operator mindset** — local tech repair, real-world troubleshooting, and shipping things people can actually use.
 
+## `mission_control`
+
+<div align="center">
+
+<img src="./assets/mission-control.svg" alt="Hellasleeper mission control panel" width="100%" />
+
+</div>
+
 ## `featured_systems`
 
 | Project | What it is | Stack / vibe |
@@ -49,6 +57,39 @@ operating_rule = make it work → make it understandable → make it hard to ign
 | [`V0id`](https://github.com/hellasleeper108/V0id) | A terminal learning experience with hacker-console flavor. | terminal UX · education |
 | [`5-dollar-soc`](https://github.com/hellasleeper108/5-dollar-soc) | Why a tiny VPS can become a serious security lab. | SOC · VPS · practical ops |
 | [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes Agent bridge experiments for the Cardputer ADV. | agents · embedded · cyberdeck |
+
+## `latest_transmissions`
+
+<!-- LATEST-TRANSMISSIONS:START -->
+| Transmission | Signal | Stack | Last ping |
+|---|---|---:|---:|
+| [`5-dollar-soc`](https://github.com/hellasleeper108/5-dollar-soc) | Why I decided to get a $5 VPS (and you should too) | `HTML` | `2026-06-10` |
+| [`tracemap`](https://github.com/hellasleeper108/tracemap) | Like ol' school traceroute...but on a map. Lists all IP's currently connected to and where.  | `Python` | `2026-06-10` |
+| [`V0id`](https://github.com/hellasleeper108/V0id) | A fun terminal learning experience | `mixed` | `2026-06-07` |
+| [`LiNvidia-Broadcast`](https://github.com/hellasleeper108/LiNvidia-Broadcast) | Nvidia Broadcast for Linux | `Python` | `2026-06-05` |
+| [`Idea-Journal`](https://github.com/hellasleeper108/Idea-Journal) | A place to shelf ideas while I continue to develop projects | `Python` | `2026-06-05` |
+| [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-05-23` |
+| [`do-not-sleep`](https://github.com/hellasleeper108/do-not-sleep) | Do Not Sleep — a static manifesto page | `HTML` | `2026-05-22` |
+| [`SignalForge`](https://github.com/hellasleeper108/SignalForge) | SignalForge is a local-first OSINT investigation workstation for graph-centric research, cyber analysis, journalism, and threat hunting. | `Rust` | `2026-05-19` |
+
+<sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
+<!-- LATEST-TRANSMISSIONS:END -->
+
+## `signal_map`
+
+<!-- SIGNAL-MAP:START -->
+<p>
+  <img alt="public systems: 29" src="https://img.shields.io/badge/public%20systems-29-00e5ff?style=flat-square&labelColor=0d1117">
+  <img alt="Python: 13" src="https://img.shields.io/badge/Python-13-39ff14?style=flat-square&labelColor=0d1117">
+  <img alt="HTML: 3" src="https://img.shields.io/badge/HTML-3-e34f26?style=flat-square&labelColor=0d1117">
+  <img alt="Mixed: 3" src="https://img.shields.io/badge/Mixed-3-b967ff?style=flat-square&labelColor=0d1117">
+  <img alt="Rust: 3" src="https://img.shields.io/badge/Rust-3-ff6b35?style=flat-square&labelColor=0d1117">
+  <img alt="TypeScript: 2" src="https://img.shields.io/badge/TypeScript-2-3178c6?style=flat-square&labelColor=0d1117">
+  <img alt="JavaScript: 2" src="https://img.shields.io/badge/JavaScript-2-f7df1e?style=flat-square&labelColor=0d1117">
+  <img alt="C++: 1" src="https://img.shields.io/badge/C%2B%2B-1-b967ff?style=flat-square&labelColor=0d1117">
+  <img alt="Makefile: 1" src="https://img.shields.io/badge/Makefile-1-b967ff?style=flat-square&labelColor=0d1117">
+</p>
+<!-- SIGNAL-MAP:END -->
 
 ## `toolbelt`
 

@@ -1,0 +1,63 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hellasleeper mission control panel</title>
+  <desc id="desc">A neon terminal dashboard showing AI, blue team, OSINT, signal, homelab, and learning nodes.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#071014"/>
+      <stop offset="1" stop-color="#020405"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#00e5ff" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" rx="22" fill="url(#panel)"/>
+  <rect width="1200" height="280" rx="22" fill="url(#grid)"/>
+  <rect x="20" y="20" width="1160" height="240" rx="16" fill="none" stroke="#39ff14" stroke-opacity="0.35"/>
+
+  <g font-family="Consolas, Cascadia Mono, Fira Code, monospace">
+    <text x="46" y="58" font-size="22" fill="#39ff14">MISSION CONTROL // active lanes</text>
+    <text x="46" y="90" font-size="15" fill="#8b949e">signals routed through local-first tooling, defensive security, and weird useful interfaces</text>
+  </g>
+
+  <g stroke="#00e5ff" stroke-opacity="0.38" stroke-width="2">
+    <path d="M225 164H373"/><path d="M430 164H578"/><path d="M635 164H783"/><path d="M840 164H988"/>
+    <path d="M600 124V82"/><path d="M600 204V238"/>
+  </g>
+
+  <g font-family="Consolas, Cascadia Mono, Fira Code, monospace" font-size="17" text-anchor="middle">
+    <g transform="translate(120 164)">
+      <circle r="58" fill="#0d1117" stroke="#39ff14" stroke-width="2" filter="url(#glow)"/>
+      <text y="-7" fill="#39ff14">AI</text><text y="18" fill="#c9d1d9">agents</text>
+    </g>
+    <g transform="translate(325 164)">
+      <circle r="58" fill="#0d1117" stroke="#00e5ff" stroke-width="2" filter="url(#glow)"/>
+      <text y="-7" fill="#00e5ff">BLUE</text><text y="18" fill="#c9d1d9">team</text>
+    </g>
+    <g transform="translate(530 164)">
+      <circle r="58" fill="#0d1117" stroke="#b967ff" stroke-width="2" filter="url(#glow)"/>
+      <text y="-7" fill="#b967ff">OSINT</text><text y="18" fill="#c9d1d9">graphs</text>
+    </g>
+    <g transform="translate(735 164)">
+      <circle r="58" fill="#0d1117" stroke="#39ff14" stroke-width="2" filter="url(#glow)"/>
+      <text y="-7" fill="#39ff14">SIGNAL</text><text y="18" fill="#c9d1d9">radio/net</text>
+    </g>
+    <g transform="translate(940 164)">
+      <circle r="58" fill="#0d1117" stroke="#00e5ff" stroke-width="2" filter="url(#glow)"/>
+      <text y="-7" fill="#00e5ff">HOME</text><text y="18" fill="#c9d1d9">lab</text>
+    </g>
+    <g transform="translate(1080 164)">
+      <circle r="58" fill="#0d1117" stroke="#ff6b35" stroke-width="2" filter="url(#glow)"/>
+      <text y="-7" fill="#ff6b35">LEARN</text><text y="18" fill="#c9d1d9">ship</text>
+    </g>
+  </g>
+
+  <g font-family="Consolas, Cascadia Mono, Fira Code, monospace" font-size="15" fill="#8b949e">
+    <text x="48" y="244">pipeline: idea → prototype → tool → writeup → next weird system</text>
+    <text x="790" y="244" fill="#39ff14">heartbeat: public repos + homelab experiments</text>
+  </g>
+</svg>
