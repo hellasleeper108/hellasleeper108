@@ -63,6 +63,7 @@ operating_rule = make it work → make it understandable → make it hard to ign
 <!-- LATEST-TRANSMISSIONS:START -->
 | Transmission | Signal | Stack | Last ping |
 |---|---|---:|---:|
+| [`brats_medical_segmentation`](https://github.com/hellasleeper108/brats_medical_segmentation) |  BraTS Medical Image Segmentation - 85.51% Dice Score    State-of-the-art 3D U-Net for brain tumor segmentation achieving 85.51% Dice score on BraTS 2021 dataset.  | `Python` | `2026-07-01` |
 | [`LiNvidia-Broadcast`](https://github.com/hellasleeper108/LiNvidia-Broadcast) | Nvidia Broadcast for Linux | `Python` | `2026-06-26` |
 | [`5-dollar-soc`](https://github.com/hellasleeper108/5-dollar-soc) | Why I decided to get a $5 VPS (and you should too) | `HTML` | `2026-06-10` |
 | [`tracemap`](https://github.com/hellasleeper108/tracemap) | Like ol' school traceroute...but on a map. Lists all IP's currently connected to and where.  | `Python` | `2026-06-10` |
@@ -70,7 +71,6 @@ operating_rule = make it work → make it understandable → make it hard to ign
 | [`Idea-Journal`](https://github.com/hellasleeper108/Idea-Journal) | A place to shelf ideas while I continue to develop projects | `Python` | `2026-06-05` |
 | [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-05-23` |
 | [`do-not-sleep`](https://github.com/hellasleeper108/do-not-sleep) | Do Not Sleep — a static manifesto page | `HTML` | `2026-05-22` |
-| [`SignalForge`](https://github.com/hellasleeper108/SignalForge) | SignalForge is a local-first OSINT investigation workstation for graph-centric research, cyber analysis, journalism, and threat hunting. | `Rust` | `2026-05-19` |
 
 <sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
 <!-- LATEST-TRANSMISSIONS:END -->
