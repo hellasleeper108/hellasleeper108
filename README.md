@@ -63,6 +63,7 @@ operating_rule = make it work → make it understandable → make it hard to ign
 <!-- LATEST-TRANSMISSIONS:START -->
 | Transmission | Signal | Stack | Last ping |
 |---|---|---:|---:|
+| [`wargames-terminal`](https://github.com/hellasleeper108/wargames-terminal) | A faithful terminal simulation of the WOPR computer from the 1983 film WarGames — CRT aesthetics, full dialogue tree, no dependencies. | `HTML` | `2026-07-15` |
 | [`LiNvidia-Broadcast`](https://github.com/hellasleeper108/LiNvidia-Broadcast) | Nvidia Broadcast for Linux | `Python` | `2026-07-11` |
 | [`5-dollar-soc`](https://github.com/hellasleeper108/5-dollar-soc) | Why I decided to get a $5 VPS (and you should too) | `HTML` | `2026-07-05` |
 | [`brats_medical_segmentation`](https://github.com/hellasleeper108/brats_medical_segmentation) |  BraTS Medical Image Segmentation - 85.51% Dice Score    State-of-the-art 3D U-Net for brain tumor segmentation achieving 85.51% Dice score on BraTS 2021 dataset.  | `Python` | `2026-07-01` |
@@ -70,7 +71,6 @@ operating_rule = make it work → make it understandable → make it hard to ign
 | [`V0id`](https://github.com/hellasleeper108/V0id) | A fun terminal learning experience | `mixed` | `2026-06-07` |
 | [`Idea-Journal`](https://github.com/hellasleeper108/Idea-Journal) | A place to shelf ideas while I continue to develop projects | `Python` | `2026-06-05` |
 | [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-05-23` |
-| [`do-not-sleep`](https://github.com/hellasleeper108/do-not-sleep) | Do Not Sleep — a static manifesto page | `HTML` | `2026-05-22` |
 
 <sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
 <!-- LATEST-TRANSMISSIONS:END -->
@@ -79,9 +79,9 @@ operating_rule = make it work → make it understandable → make it hard to ign
 
 <!-- SIGNAL-MAP:START -->
 <p>
-  <img alt="public systems: 29" src="https://img.shields.io/badge/public%20systems-29-00e5ff?style=flat-square&labelColor=0d1117">
+  <img alt="public systems: 30" src="https://img.shields.io/badge/public%20systems-30-00e5ff?style=flat-square&labelColor=0d1117">
   <img alt="Python: 13" src="https://img.shields.io/badge/Python-13-39ff14?style=flat-square&labelColor=0d1117">
-  <img alt="HTML: 3" src="https://img.shields.io/badge/HTML-3-e34f26?style=flat-square&labelColor=0d1117">
+  <img alt="HTML: 4" src="https://img.shields.io/badge/HTML-4-e34f26?style=flat-square&labelColor=0d1117">
   <img alt="Mixed: 3" src="https://img.shields.io/badge/Mixed-3-b967ff?style=flat-square&labelColor=0d1117">
   <img alt="Rust: 3" src="https://img.shields.io/badge/Rust-3-ff6b35?style=flat-square&labelColor=0d1117">
   <img alt="TypeScript: 2" src="https://img.shields.io/badge/TypeScript-2-3178c6?style=flat-square&labelColor=0d1117">
