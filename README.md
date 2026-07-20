@@ -63,6 +63,7 @@ operating_rule = make it work → make it understandable → make it hard to ign
 <!-- LATEST-TRANSMISSIONS:START -->
 | Transmission | Signal | Stack | Last ping |
 |---|---|---:|---:|
+| [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-07-19` |
 | [`wargames-terminal`](https://github.com/hellasleeper108/wargames-terminal) | A faithful terminal simulation of the WOPR computer from the 1983 film WarGames — CRT aesthetics, full dialogue tree, no dependencies. | `HTML` | `2026-07-15` |
 | [`LiNvidia-Broadcast`](https://github.com/hellasleeper108/LiNvidia-Broadcast) | Nvidia Broadcast for Linux | `Python` | `2026-07-11` |
 | [`5-dollar-soc`](https://github.com/hellasleeper108/5-dollar-soc) | Why I decided to get a $5 VPS (and you should too) | `HTML` | `2026-07-05` |
@@ -70,7 +71,6 @@ operating_rule = make it work → make it understandable → make it hard to ign
 | [`tracemap`](https://github.com/hellasleeper108/tracemap) | Like ol' school traceroute...but on a map. Lists all IP's currently connected to and where.  | `Python` | `2026-06-10` |
 | [`V0id`](https://github.com/hellasleeper108/V0id) | A fun terminal learning experience | `mixed` | `2026-06-07` |
 | [`Idea-Journal`](https://github.com/hellasleeper108/Idea-Journal) | A place to shelf ideas while I continue to develop projects | `Python` | `2026-06-05` |
-| [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-05-23` |
 
 <sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
 <!-- LATEST-TRANSMISSIONS:END -->
