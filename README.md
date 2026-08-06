@@ -63,6 +63,7 @@ operating_rule = make it work → make it understandable → make it hard to ign
 <!-- LATEST-TRANSMISSIONS:START -->
 | Transmission | Signal | Stack | Last ping |
 |---|---|---:|---:|
+| [`jaramie.com`](https://github.com/hellasleeper108/jaramie.com) | No description yet — classified transmission. | `HTML` | `2026-08-03` |
 | [`LiNvidia-Broadcast`](https://github.com/hellasleeper108/LiNvidia-Broadcast) | Nvidia Broadcast for Linux | `Python` | `2026-07-22` |
 | [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-07-19` |
 | [`wargames-terminal`](https://github.com/hellasleeper108/wargames-terminal) | A faithful terminal simulation of the WOPR computer from the 1983 film WarGames — CRT aesthetics, full dialogue tree, no dependencies. | `HTML` | `2026-07-15` |
@@ -70,7 +71,6 @@ operating_rule = make it work → make it understandable → make it hard to ign
 | [`brats_medical_segmentation`](https://github.com/hellasleeper108/brats_medical_segmentation) |  BraTS Medical Image Segmentation - 85.51% Dice Score    State-of-the-art 3D U-Net for brain tumor segmentation achieving 85.51% Dice score on BraTS 2021 dataset.  | `Python` | `2026-07-01` |
 | [`tracemap`](https://github.com/hellasleeper108/tracemap) | Like ol' school traceroute...but on a map. Lists all IP's currently connected to and where.  | `Python` | `2026-06-10` |
 | [`V0id`](https://github.com/hellasleeper108/V0id) | A fun terminal learning experience | `mixed` | `2026-06-07` |
-| [`Idea-Journal`](https://github.com/hellasleeper108/Idea-Journal) | A place to shelf ideas while I continue to develop projects | `Python` | `2026-06-05` |
 
 <sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
 <!-- LATEST-TRANSMISSIONS:END -->
