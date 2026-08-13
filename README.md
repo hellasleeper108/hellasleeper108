@@ -63,14 +63,14 @@ operating_rule = make it work → make it understandable → make it hard to ign
 <!-- LATEST-TRANSMISSIONS:START -->
 | Transmission | Signal | Stack | Last ping |
 |---|---|---:|---:|
+| [`wiz-ball`](https://github.com/hellasleeper108/wiz-ball) | Wiz Ball — local two-player wizard soccer. Fan recreation of arcade DeathBall. | `JavaScript` | `2026-08-13` |
+| [`threatbench`](https://github.com/hellasleeper108/threatbench) | THREATBENCH 1.3 — Amiga Workbench threat-intel station | `Python` | `2026-08-13` |
+| [`carrier`](https://github.com/hellasleeper108/carrier) | CARRIER//OP0 — always-on Telehack relay chat client. Rust daemon + phosphor-green ratatui TUI. EST.1986 // AWOKEN 2026 | `Rust` | `2026-08-11` |
+| [`kitty-retro-pack`](https://github.com/hellasleeper108/kitty-retro-pack) | No description yet — classified transmission. | `Shell` | `2026-08-10` |
 | [`autodial-exe`](https://github.com/hellasleeper108/autodial-exe) | AUTODIAL.EXE - a wardialer for a world with no phonelines left, bridging to real public BBSes. | `JavaScript` | `2026-08-08` |
 | [`jaramie.com`](https://github.com/hellasleeper108/jaramie.com) | No description yet — classified transmission. | `HTML` | `2026-08-08` |
 | [`autodial.exe`](https://github.com/hellasleeper108/autodial.exe) | Wardriving through actual modern BBS. Non-algorithmic social media as it always could have been. De-centralized and deterministic.  | `mixed` | `2026-08-07` |
 | [`LiNvidia-Broadcast`](https://github.com/hellasleeper108/LiNvidia-Broadcast) | Nvidia Broadcast for Linux | `Python` | `2026-07-22` |
-| [`hermes-adv`](https://github.com/hellasleeper108/hermes-adv) | Hermes agent bridge for the Cardputer ADV | `C++` | `2026-07-19` |
-| [`wargames-terminal`](https://github.com/hellasleeper108/wargames-terminal) | A faithful terminal simulation of the WOPR computer from the 1983 film WarGames — CRT aesthetics, full dialogue tree, no dependencies. | `HTML` | `2026-07-15` |
-| [`5-dollar-soc`](https://github.com/hellasleeper108/5-dollar-soc) | Why I decided to get a $5 VPS (and you should too) | `HTML` | `2026-07-05` |
-| [`brats_medical_segmentation`](https://github.com/hellasleeper108/brats_medical_segmentation) |  BraTS Medical Image Segmentation - 85.51% Dice Score    State-of-the-art 3D U-Net for brain tumor segmentation achieving 85.51% Dice score on BraTS 2021 dataset.  | `Python` | `2026-07-01` |
 
 <sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
 <!-- LATEST-TRANSMISSIONS:END -->
@@ -79,15 +79,15 @@ operating_rule = make it work → make it understandable → make it hard to ign
 
 <!-- SIGNAL-MAP:START -->
 <p>
-  <img alt="public systems: 32" src="https://img.shields.io/badge/public%20systems-32-00e5ff?style=flat-square&labelColor=0d1117">
-  <img alt="Python: 13" src="https://img.shields.io/badge/Python-13-39ff14?style=flat-square&labelColor=0d1117">
+  <img alt="public systems: 36" src="https://img.shields.io/badge/public%20systems-36-00e5ff?style=flat-square&labelColor=0d1117">
+  <img alt="Python: 14" src="https://img.shields.io/badge/Python-14-39ff14?style=flat-square&labelColor=0d1117">
+  <img alt="JavaScript: 4" src="https://img.shields.io/badge/JavaScript-4-f7df1e?style=flat-square&labelColor=0d1117">
+  <img alt="Rust: 4" src="https://img.shields.io/badge/Rust-4-ff6b35?style=flat-square&labelColor=0d1117">
   <img alt="HTML: 4" src="https://img.shields.io/badge/HTML-4-e34f26?style=flat-square&labelColor=0d1117">
   <img alt="Mixed: 4" src="https://img.shields.io/badge/Mixed-4-b967ff?style=flat-square&labelColor=0d1117">
-  <img alt="JavaScript: 3" src="https://img.shields.io/badge/JavaScript-3-f7df1e?style=flat-square&labelColor=0d1117">
-  <img alt="Rust: 3" src="https://img.shields.io/badge/Rust-3-ff6b35?style=flat-square&labelColor=0d1117">
+  <img alt="Shell: 2" src="https://img.shields.io/badge/Shell-2-89e051?style=flat-square&labelColor=0d1117">
   <img alt="TypeScript: 2" src="https://img.shields.io/badge/TypeScript-2-3178c6?style=flat-square&labelColor=0d1117">
   <img alt="C++: 1" src="https://img.shields.io/badge/C%2B%2B-1-b967ff?style=flat-square&labelColor=0d1117">
-  <img alt="Makefile: 1" src="https://img.shields.io/badge/Makefile-1-b967ff?style=flat-square&labelColor=0d1117">
 </p>
 <!-- SIGNAL-MAP:END -->
 
