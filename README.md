@@ -133,7 +133,11 @@ operating_rule = make it work → make it understandable → make it hard to ign
 
 ### `connect`
 
-[Portfolio](https://jaramie.com) · [GitHub](https://github.com/hellasleeper108) · [LinkedIn](https://www.linkedin.com/in/jaramie-morris)
+[Portfolio](https://jaramie.com) · [GitHub](https://github.com/hellasleeper108) · [LinkedIn](https://www.linkedin.com/in/jaramie-morris) · [Buy me a coffee](https://www.buymeacoffee.com/jaramie)
+
+<br />
+
+<a href="https://www.buymeacoffee.com/jaramie" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="48" /></a>
 
 <sub>“Do not sleep. Compile the future.”</sub>
 
