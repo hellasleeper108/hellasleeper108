@@ -63,14 +63,14 @@ operating_rule = make it work → make it understandable → make it hard to ign
 <!-- LATEST-TRANSMISSIONS:START -->
 | Transmission | Signal | Stack | Last ping |
 |---|---|---:|---:|
-| [`drawer`](https://github.com/hellasleeper108/drawer) | DRAWER 1.3 — SYS:Drawer directory for the Amiga Workbench lot | `JavaScript` | `2026-08-14` |
-| [`wirebench`](https://github.com/hellasleeper108/wirebench) | WIREBENCH 1.3 — Amiga Workbench wire desk. Public RSS. No Reuters/AP scrape. | `JavaScript` | `2026-08-14` |
-| [`humble`](https://github.com/hellasleeper108/humble) | HUMBLE 1.3 — Amiga Workbench shop OS for Humble PC Repair. | `JavaScript` | `2026-08-14` |
-| [`aminet`](https://github.com/hellasleeper108/aminet) | AMINET 1.3 — Amiga Workbench software librarian. Official Aminet RSS. No binary mirror. | `JavaScript` | `2026-08-14` |
-| [`docket`](https://github.com/hellasleeper108/docket) | DOCKET 1.3 — Amiga Workbench clerk desk. CourtListener public opinions. No PACER. | `JavaScript` | `2026-08-14` |
-| [`airbench`](https://github.com/hellasleeper108/airbench) | AIRBENCH 1.3 — Amiga Workbench shack: Houston ADS-B, FM, KTEH | `JavaScript` | `2026-08-14` |
-| [`readroom`](https://github.com/hellasleeper108/readroom) | READROOM 1.3 — Amiga Workbench FOIA / archive reading room | `JavaScript` | `2026-08-14` |
-| [`codex`](https://github.com/hellasleeper108/codex) | CODEX 1.3 — Amiga Workbench esoterica desk (tractates, Tree, gematria) | `JavaScript` | `2026-08-14` |
+| [`drawer`](https://github.com/hellasleeper108/drawer) | DRAWER 1.3 — SYS:Drawer directory for the Amiga Workbench lot | `JavaScript` | `2026-08-20` |
+| [`hall`](https://github.com/hellasleeper108/hall) | HALL 1.3 — Hall of Ages BBS. Manly P. Hall's Secret Teachings of All Ages as a dial-in folio on Amiga Workbench chrome. | `JavaScript` | `2026-08-20` |
+| [`bbsbench`](https://github.com/hellasleeper108/bbsbench) | BBSBENCH 1.3 — Amiga Workbench BBS directory. Listed telnet only. | `JavaScript` | `2026-08-20` |
+| [`docket`](https://github.com/hellasleeper108/docket) | DOCKET 1.3 — Amiga Workbench clerk desk. CourtListener public opinions. No PACER. | `JavaScript` | `2026-08-20` |
+| [`wirebench`](https://github.com/hellasleeper108/wirebench) | WIREBENCH 1.3 — Amiga Workbench wire desk. Public RSS. No Reuters/AP scrape. | `JavaScript` | `2026-08-20` |
+| [`humble`](https://github.com/hellasleeper108/humble) | HUMBLE 1.3 — Amiga Workbench shop OS for Humble PC Repair. | `JavaScript` | `2026-08-20` |
+| [`aminet`](https://github.com/hellasleeper108/aminet) | AMINET 1.3 — Amiga Workbench software librarian. Official Aminet RSS. No binary mirror. | `JavaScript` | `2026-08-20` |
+| [`jaramie.com`](https://github.com/hellasleeper108/jaramie.com) | No description yet — classified transmission. | `HTML` | `2026-08-20` |
 
 <sub>Auto-refreshed from public repo metadata by `.github/workflows/update-profile.yml`.</sub>
 <!-- LATEST-TRANSMISSIONS:END -->
@@ -79,11 +79,11 @@ operating_rule = make it work → make it understandable → make it hard to ign
 
 <!-- SIGNAL-MAP:START -->
 <p>
-  <img alt="public systems: 45" src="https://img.shields.io/badge/public%20systems-45-00e5ff?style=flat-square&labelColor=0d1117">
-  <img alt="Python: 14" src="https://img.shields.io/badge/Python-14-39ff14?style=flat-square&labelColor=0d1117">
-  <img alt="JavaScript: 13" src="https://img.shields.io/badge/JavaScript-13-f7df1e?style=flat-square&labelColor=0d1117">
-  <img alt="Rust: 4" src="https://img.shields.io/badge/Rust-4-ff6b35?style=flat-square&labelColor=0d1117">
+  <img alt="public systems: 46" src="https://img.shields.io/badge/public%20systems-46-00e5ff?style=flat-square&labelColor=0d1117">
+  <img alt="JavaScript: 15" src="https://img.shields.io/badge/JavaScript-15-f7df1e?style=flat-square&labelColor=0d1117">
+  <img alt="Python: 13" src="https://img.shields.io/badge/Python-13-39ff14?style=flat-square&labelColor=0d1117">
   <img alt="HTML: 4" src="https://img.shields.io/badge/HTML-4-e34f26?style=flat-square&labelColor=0d1117">
+  <img alt="Rust: 4" src="https://img.shields.io/badge/Rust-4-ff6b35?style=flat-square&labelColor=0d1117">
   <img alt="Mixed: 4" src="https://img.shields.io/badge/Mixed-4-b967ff?style=flat-square&labelColor=0d1117">
   <img alt="Shell: 2" src="https://img.shields.io/badge/Shell-2-89e051?style=flat-square&labelColor=0d1117">
   <img alt="TypeScript: 2" src="https://img.shields.io/badge/TypeScript-2-3178c6?style=flat-square&labelColor=0d1117">
